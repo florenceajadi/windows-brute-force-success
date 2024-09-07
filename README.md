@@ -5,7 +5,7 @@ ___________________________________________________________
 <br />
 
 <img src="https://github.com/user-attachments/assets/b24acca7-b538-4c4b-9e67-8d37f2851065" height="80%" width="80%" />
-<p><h4>NIST 800-61 </h4> </p>
+<p><h4>NIST 800-61 Incident Management Lifecycle </h4> </p>
 <p> Preparation: Getting ready for potential security incidents before they happen. </p>
 <p>Detection & Analysis: Identifying and understanding security incidents when they occur. </p>
 <p>Containment, Eradication, and Recovery: Managing the incident to minimize damage and restore normal operations. </p>
